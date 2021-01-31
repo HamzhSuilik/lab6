@@ -12,6 +12,6 @@
 
 `dragonfly`
 
-_exciting language_
+~exciting language~
 
-*exciting language*
+-exciting language-
