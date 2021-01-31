@@ -54,4 +54,12 @@ header nav ul li a {
     border-radius: 30px;
 
   }
+
+  #price{
+    border: solid 2px rgb(72, 187, 6);
+    border-radius: 30px;
+    background-color: rgba(174, 184, 43, 0.568);
+    margin-right: 450px;
+    margin-left: 450px;
+  }
  
