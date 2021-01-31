@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+  }
+
+header nav ul li a {
+    color: #eeeeee;
+    text-decoration: none;
+    stroke: blue;
+    stroke-width: 1px;
+  }
+
+  header nav ul {
+    list-style: none;
+  }
+
+  header nav ul li {
+    display: inline-block;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-size-adjust: 50px;
+  }
+  
+  header{
+    margin: 50px;
+    padding: 10px;
+    border: solid 3px rgb(8, 31, 107);
+    border-radius: 30px;
+
+  }
+
+
+  #item1 {
+    color: rgb(245, 13, 13);
+    
+  }
+  #item2 {
+    color: rgb(13, 23, 160);
+  }
+  #item3 {
+    color: rgb(245, 13, 13);
+  }
+  #item4 {
+    color: rgb(13, 23, 160);
+  }
+
+  main{
+      text-align: center;
+      margin: 50px;
+      padding: 10px;
+      color: rgb(255, 94, 0);
+
+      border: solid 3px rgb(8, 31, 107);
+    border-radius: 30px;
+
+  }
+ 
